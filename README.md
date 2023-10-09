@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rafisfdx
-- 👀 I’m interested in Salesforece
-- 🌱 I’m currently learning Salesforce
+- 👋 Hi, I’m @rafi Mohammed 
+- 👀 I’m interested in Android & Ios & Web App Development Using Flutter
+- 🌱 I’m currently learning FLUTTER
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me On 8919115067
 
 <!---
 rafisfdx/rafisfdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
